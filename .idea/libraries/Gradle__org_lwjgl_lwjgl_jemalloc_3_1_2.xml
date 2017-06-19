@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl-jemalloc:3.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.2/c11e97e9bf72c0c3c41b13c8d0b8b7652c9b9fd2/lwjgl-jemalloc-3.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl-jemalloc/3.1.2/4e291a359788c6949479f4c0da5f175c75dd9a32/lwjgl-jemalloc-3.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
